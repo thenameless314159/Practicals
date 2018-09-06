@@ -6,7 +6,7 @@ using Xunit;
 namespace Practicals.ExpressionTree
 {
     /// <summary>
-    /// This class is a test provider for expression trees exercices
+    /// This class is a test provider for expression trees exercises
     /// </summary>
     /// <seealso cref="LambdaExpression"/> https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/
     /// <seealso cref="Func{TResult}"/> https://docs.microsoft.com/en-us/dotnet/csharp/lambda-expressions
